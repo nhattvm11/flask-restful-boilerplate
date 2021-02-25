@@ -1,0 +1,6 @@
+flask
+flask-resful
+lask-bcrypt
+SQLAlchemy
+Flask-Migrate
+Flask-Script
